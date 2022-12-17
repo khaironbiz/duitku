@@ -39,19 +39,19 @@
 
                                             <div class="mb-3 row">
                                                 <label class="col-sm-2 col-form-label">Nama</label>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="text" class="form-control" name="nama_depan" required placeholder="nama depan">
                                                 </div>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="text" class="form-control" name="nama_belakang" required placeholder="nama belakang">
                                                 </div>
                                             </div>
                                             <div class="mb-3 row">
                                                 <label class="col-sm-2 col-form-label">Contact</label>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="email" class="form-control" name="email" required placeholder="email">
                                                 </div>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="number" class="form-control" name="phone" required placeholder="phone">
                                                 </div>
                                             </div>
@@ -68,10 +68,10 @@
                                             </div>
                                             <div class="mb-3 row">
                                                 <label class="col-sm-2 col-form-label">Alamat</label>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="text" class="form-control" name="provinsi" required placeholder="provinsi">
                                                 </div>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="text" class="form-control" name="kota" required placeholder="kota">
                                                 </div>
                                             </div>
@@ -80,7 +80,7 @@
                                                 <div class="col-sm-5">
                                                     <input type="text" class="form-control" name="kecamatan" required placeholder="kecamatan">
                                                 </div>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="text" class="form-control" name="kelurahan" required placeholder="kelurahan">
                                                 </div>
                                             </div>
@@ -89,7 +89,7 @@
                                                 <div class="col-sm-5">
                                                     <input type="number" class="form-control" name="kode_pos" required placeholder="kode pos">
                                                 </div>
-                                                <div class="col-sm-5">
+                                                <div class="col-sm-5 mt-1">
                                                     <input type="text" class="form-control" name="alamat" required placeholder="nama jalan">
                                                 </div>
                                             </div>
@@ -98,7 +98,7 @@
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                            <button type="submit" class="btn btn-primary">Save changes</button>
+                                            <button type="submit" class="btn btn-primary">Save</button>
                                         </div>
 
                                     </form>
